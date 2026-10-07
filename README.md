@@ -24,7 +24,7 @@ Built real-time Power BI dashboards for revenue, sales by state and sales by rep
 | --- | --- | --- |
 | [pokedex-ai](https://github.com/Feduzo/pokedex-ai) | Pokédex with an AI professor that answers questions about the selected Pokémon. Started as an internship technical challenge, which I passed. | React, FastAPI, Ollama |
 | [StockMaster](https://github.com/Feduzo/PP-Projeto-de-Software) | Inventory system built for a real company to replace spreadsheets. Team project where I built most of the app. | Flask, SQLite |
-| [crud-ai-churn](https://github.com/Feduzo/proj-padrao-e-arquitetura-de-software) | Customer CRUD with the Repository pattern and a local LLM that rates churn risk. | Python, Ollama |
+| [crud-ai-churn](https://github.com/Feduzo/crud-ai-churn) | Customer CRUD with the Repository pattern and a local LLM that rates churn risk. | Python, Ollama |
 
 ## Outside of code
 
