@@ -1,35 +1,29 @@
-# Hi, I'm Felipe Duzo
+# Oi, eu sou o Felipe
 
-**EN** · Software Engineering student at USF with 4 years of experience in data analysis. I build web applications with Python and React, and I like bringing AI into everyday systems. Open to software development internships, remote or on-site.
+**EN** · Software engineer from Brazil. Today I'm the entire IT department of a company: I build its systems, run the infrastructure and fix whatever breaks. Before that, I spent 4 years turning data into Power BI dashboards. Python is home, but lately I've been poking at Elixir and Rust.
 
-**PT** · Estudante de Engenharia de Software na USF com 4 anos de experiência em análise de dados. Desenvolvo aplicações web com Python e React e gosto de integrar IA a sistemas do dia a dia. Aberto a estágio em desenvolvimento, remoto ou presencial.
+**PT** · Engenheiro de software no interior de SP. Hoje sou o departamento de TI inteiro de uma empresa: desenvolvo os sistemas, cuido da infraestrutura e resolvo qualquer B.O. que aparecer. Antes disso, passei 4 anos transformando dados em dashboards de Power BI. Python é minha casa, mas ando cutucando Elixir e Rust para ver como o resto do mundo vive.
 
-## What I work with
+## O que eu ando fazendo
 
-- **Languages:** Python (main), JavaScript, SQL
-- **Web:** FastAPI, Flask, React, Vite
-- **AI:** LLM integration with Ollama and OpenRouter
-- **Data:** Power BI dashboards, Excel, Google Sheets
-- **Business systems:** CRM and ERP (Bling), end to end
-- **Tooling:** Git, GitHub Actions, pytest
+**Engenheiro de Software · Soberano Grill** (atual)  
+Exército de um homem só. Desenvolvo e implanto os sistemas da empresa, cuido da infraestrutura e da manutenção, e trabalho com ERP (Bling) e CRM de ponta a ponta.
 
-## Experience
+**Analista de Dados · SEMS-Biofarma** (2020 a 2024)  
+Dashboards em Power BI de faturamento e vendas em tempo real, usados pela diretoria para apoiar decisões estratégicas.
 
-**Data Analyst · SEMS-Biofarma** (2020 to 2024)  
-Built real-time Power BI dashboards for revenue, sales by state and sales by rep, used by the board to guide strategic decisions.
+## Projetos
 
-## Featured projects
-
-| Project | What it is | Stack |
+| Projeto | O que é | Stack |
 | --- | --- | --- |
-| [pokedex-ai](https://github.com/Feduzo/pokedex-ai) | Pokédex with an AI professor that answers questions about the selected Pokémon. Started as an internship technical challenge, which I passed. | React, FastAPI, Ollama |
-| [StockMaster](https://github.com/Feduzo/PP-Projeto-de-Software) | Inventory system built for a real company to replace spreadsheets. Team project where I built most of the app. | Flask, SQLite |
-| [crud-ai-churn](https://github.com/Feduzo/crud-ai-churn) | Customer CRUD with the Repository pattern and a local LLM that rates churn risk. | Python, Ollama |
+| [pokedex-ai](https://github.com/Feduzo/pokedex-ai) | Pokédex com um professor de IA que responde sobre o Pokémon escolhido. Nasceu como desafio técnico de um processo seletivo, no qual fui aprovado. | React, FastAPI, Ollama |
+| [StockMaster](https://github.com/Feduzo/PP-Projeto-de-Software) | Sistema de estoque feito para uma empresa real largar as planilhas. Projeto em grupo, onde desenvolvi a maior parte. | Flask, SQLite |
+| [crud-ai-churn](https://github.com/Feduzo/crud-ai-churn) | CRUD de clientes com padrão Repository e uma LLM local que avalia risco de churn. | Python, Ollama |
 
-## Outside of code
+## Fora do código
 
-3D modeling (CAD) as a hobby.
+Gosto de resolver problemas fora da tela também: boa parte dos móveis e das coisas do meu quarto e da casa passou pela minha mão. Se está quebrado, eu conserto.
 
-## Contact
+## Contato
 
 [LinkedIn](https://www.linkedin.com/in/felipe-duzo-6a4298196) · duzofelipe@gmail.com
